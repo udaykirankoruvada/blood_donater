@@ -1,0 +1,19 @@
+h1{font-style: var(cursive);;color:red;text-align: center;}
+h3{color: blue;text-align: center;}
+.text{background-color:cornsilk;margin: 0%;}
+img{
+    padding-left: 5%;
+    width: 75%;
+    height:500px;
+    background-color: white;
+}
+p{text-align: center;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: chocolate;}
+p2{text-overflow: clip;}
+body2{font-weight:bolder;}
+.links{color: rgb(242, 10, 33);font-size: xx-large;text-decoration:double  ;
+text-align: center;}
+a:hover{color: rgba(12, 1, 1, 0.919);text-shadow: 5pt;}
+p3,a{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:skyblue;}
+p3,a{border: rgba(12, 1, 1, 0.919);border-style:dashed;border-radius: 20%;border-spacing: 10%;}
+p4{text-align: left;}
